@@ -1127,6 +1127,11 @@
     wcwidth "^1.0.1"
     ws "^1.1.0"
 
+"@react-native-community/image-editor@^2.3.0":
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@react-native-community/image-editor/-/image-editor-2.3.0.tgz#8ac6c3691fd2c762d2abeb84c01a3b201bac3b1e"
+  integrity sha512-+UJY8WkTkfSkjoU5blQnEI7tTg11jJLoM+YojjiQpEopUaRlYQU4SZ9Zd6F6wWfvc9bjvIeMY6FlKuESK/q4fQ==
+
 "@react-native-community/masked-view@0.1.6":
   version "0.1.6"
   resolved "https://registry.yarnpkg.com/@react-native-community/masked-view/-/masked-view-0.1.6.tgz#c7f2ac187c1f25aa8c30d11baa8f4398eca3bb84"
@@ -4351,6 +4356,11 @@ react-is@^16.12.0, react-is@^16.13.0, react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
+react-native-amazing-cropper@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-amazing-cropper/-/react-native-amazing-cropper-0.1.1.tgz#ce14cdcff8f4edf38301eab07fbf60ffff2601b0"
+  integrity sha512-gi2PWQt7jjtb2CEh66AuSli5kVNQcLHdEt+FZHkYlQRYZQmaAahVSnu0k0aC7SYwxz4eUp+AcemDjeCoGUXlDw==
+
 react-native-gesture-handler@~1.6.0:
   version "1.6.1"
   resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-1.6.1.tgz#678e2dce250ed66e93af409759be22cd6375dd17"
@@ -4360,6 +4370,11 @@ react-native-gesture-handler@~1.6.0:
     hoist-non-react-statics "^2.3.1"
     invariant "^2.2.4"
     prop-types "^15.7.2"
+
+react-native-image-rotate@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/react-native-image-rotate/-/react-native-image-rotate-2.1.0.tgz#6275a294d9fafb86f7c82f43b26f04d95ede4b1f"
+  integrity sha512-TN0nk4xF/UmwCO2mcq7cA2kLki7Q9MLhCqamF/PvoLnLwvdgmkeh59o2B+YkvpJ6pADa4qjOxXZ5eFEYjLkJZA==
 
 react-native-iphone-x-helper@^1.2.1:
   version "1.2.1"
